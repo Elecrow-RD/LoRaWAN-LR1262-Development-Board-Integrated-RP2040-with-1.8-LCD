@@ -1,6 +1,7 @@
 ### 1, Product picture
 
-![crt01267d_lora_lr1262_dev_board_1](F:\wiki\lorawan\LoRaWAN RA-08H Development Board Integrated RP2040 with 1.8\crt01267d_lora_lr1262_dev_board_1.jpg)
+![crt01267d_lora_lr1262_dev_board_1](https://github.com/user-attachments/assets/5869e385-6278-4b3a-b4b7-b36f9769b094)
+
 
 ### 2, Product version number
 
